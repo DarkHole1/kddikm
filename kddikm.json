@@ -1,0 +1,19 @@
+{
+  "title": "kddikm",
+  "description": "",
+  "artist": "Ксеногусевка",
+  "author": "",
+  "cover": "https://i.imgur.com/p1lMSuk.jpeg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1708436297",
+      "groups": {
+        "": [
+          "https://imgur.com/a/zOw5Esf"
+        ]
+      }
+    }
+  }
+}
