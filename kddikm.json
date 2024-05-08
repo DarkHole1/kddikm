@@ -6,11 +6,13 @@
   "cover": "https://i.imgur.com/p1lMSuk.jpeg",
   "chapters": {
     "1": {
-      "title": "",
-      "volume": "",
-      "last_updated": "1715179288",
+      "title": "Глава 1",
+      "volume": "1",
+      "last_updated": "1715184490",
       "groups": {
-        "": "/proxy/api/imgur/chapter/ZqDFwLd"
+        "Dark Hole": [
+          "https://i.imgur.com/p1lMSuk.jpeg"
+        ]
       }
     }
   }
