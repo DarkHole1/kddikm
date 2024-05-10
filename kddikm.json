@@ -1,14 +1,14 @@
 {
-  "title": "kddikm",
+  "title": "КдДиКм",
   "description": "",
   "artist": "Ksaytex",
   "author": "Саня",
   "cover": "https://i.imgur.com/p1lMSuk.jpeg",
   "chapters": {
     "1": {
-      "title": "Глава 1",
+      "title": "Глава I",
       "volume": "1",
-      "last_updated": "1715340459",
+      "last_updated": "1715340672",
       "groups": {
         "Dark Hole": [
           "https://files.catbox.moe/58bphz.jpg",
@@ -25,7 +25,16 @@
           "https://files.catbox.moe/cpyuj0.jpg",
           "https://files.catbox.moe/7x4icf.jpg",
           "https://files.catbox.moe/q16xdl.jpg",
-          "https://files.catbox.moe/6bufjt.jpg",
+          "https://files.catbox.moe/6bufjt.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Глава II",
+      "volume": "1",
+      "last_updated": "1715340678",
+      "groups": {
+        "Dark Hole": [
           "https://files.catbox.moe/npcfag.jpg",
           "https://files.catbox.moe/uegak6.jpg",
           "https://files.catbox.moe/973wu5.jpg",
